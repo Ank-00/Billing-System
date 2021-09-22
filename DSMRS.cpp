@@ -597,14 +597,14 @@ void window(){
     SetColor(35);
     printf("Departmental Store Management System");
     gotoxy(18,3);
-    printf("Air Force vocational college, New Delhi, India");
+    printf("Roorkee College of Engineering,Uttarakhand, India");
     gotoxy(18,4);
     printf("==============================================");
 	user();
 }
 int main(){
 	ClearConsoleToColors(17,15);
-	SetConsoleTitle("Departmental Store Record System > > > By - Shweta Gupta");
+	SetConsoleTitle("Departmental Store Record System > > > By - Ankit Kumar");
     window();
     return 0;
 }
